@@ -1,0 +1,22 @@
+#c1{
+    background-color: rgb(39, 37, 37);
+    width: 160vh;
+     
+}
+#d1{
+    text-align: right;
+}
+#d2{
+    font-size: larger;
+    text-align: left;
+}
+#d3{
+    
+    text-align: center;
+}
+#c1{
+    display: flex;
+}
+Col{
+    flex: 1;
+}
